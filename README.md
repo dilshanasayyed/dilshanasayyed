@@ -89,8 +89,6 @@ I enjoy solving real-world problems through technology and exploring how **Artif
 
 <tr>
 
-
-
 <td width="50%">
 
 ### 🛡 Her Shield
@@ -100,6 +98,18 @@ A women-centric safety platform designed with accessibility and intuitive user e
 **Tech Stack**
 
 React • Node.js • PostgreSQL
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+A modern portfolio showcasing projects, technical skills and development journey with a clean and responsive design.
+
+**Tech Stack**
+
+React • TypeScript • Tailwind CSS
 
 </td>
 
@@ -149,13 +159,9 @@ HTML • CSS • JavaScript
 
 <td width="50%">
 
-### 🌐 Portfolio Website
+### 🚀 More Projects
 
-Personal portfolio showcasing projects, skills and development journey.
-
-**Tech Stack**
-
-React • TypeScript • Tailwind CSS
+Explore additional academic and personal projects on my repositories.
 
 </td>
 
@@ -164,7 +170,6 @@ React • TypeScript • Tailwind CSS
 </table>
 
 ---
-
 # Currently Learning
 
 ```text
