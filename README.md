@@ -89,17 +89,7 @@ I enjoy solving real-world problems through technology and exploring how **Artif
 
 <tr>
 
-<td width="50%">
 
-### 🌿 Ownmor Website
-
-Modern wellness platform focused on performance, responsiveness and user experience.
-
-**Tech Stack**
-
-React • TypeScript • Tailwind CSS • Node.js • PostgreSQL
-
-</td>
 
 <td width="50%">
 
